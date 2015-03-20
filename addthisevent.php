@@ -7,7 +7,6 @@
  * Author: Tom Woodward
  * Author URI: http://bionicteaching.com
  * License: GPL2
- Copyright 2015  Tom Woodward  (bionicteaching@gmail.com)
  */
  
  //register  scripts
