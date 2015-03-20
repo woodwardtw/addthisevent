@@ -25,7 +25,7 @@ function ate_scripts() {
                         plugins_url( '/ate.css', __FILE__ ),
                         array(),
                         '1',
-                        false);
+                        'all');
 //enque scripts
     wp_enqueue_script('add_this_event');
     wp_enqueue_script('add_this_events_prefs');
